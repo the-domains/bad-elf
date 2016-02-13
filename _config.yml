@@ -1,7 +1,7 @@
 name: Bad Elf
 favicon: null
-layout_spectrum: 0.22721456899307668
-typography_spectrum: 0.7113380695227534
+layout_spectrum: 1
+typography_spectrum: 0.04915
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-  brandStrength: 0.2737031187862158
-  lightness: 0.4617834356613457
-  saturation: 0.12256584269925952
-  rhythmicContrast: 0.6419373294338584
+  brandStrength: 0.1875
+  lightness: 0.625
+  saturation: 0.6875
+  rhythmicContrast: 0.75
 purpose: []
